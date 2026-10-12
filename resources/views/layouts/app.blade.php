@@ -293,12 +293,11 @@
                     <ul class="space-y-2">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt mt-1 mr-3 text-gray-400"></i>
-                            <span class="text-gray-400">Jl. H. Naman No.17 3, RT.3/RW.2, Pd. Klp., Kec. Duren Sawit,
-                                Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13450</span>
+                            <span class="text-gray-400">Jl. Imam Bonjol No.207, Pendrikan Kidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50131</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-phone-alt mt-1 mr-3 text-gray-400"></i>
-                            <span class="text-gray-400">+62 878-8363-6069</span>
+                            <span class="text-gray-400">+62 11-1704-2207</span>
                         </li>
                     </ul>
                 </div>
